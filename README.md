@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**marcoscoelho/marcoscoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Marcos Coelho, a full-stack developer living in Brazil.
 
-Here are some ideas to get you started:
+📚 Being self-taught, I believe in life-long learning and knowledge sharing. 
+I also deeply believe in the open-source movement and try to give back to the community whenever I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My work 👨‍💻
+
+I am currently Lead Developer at [123Milhas](https://123milhas.com) company, building integrations of API on the platform for search and selling airline tickets.
+
+### Get in touch ✉️
+
+- On Twitter [@omarcoscoelho](https://twitter.com/omarcoscoelho)
+- By email [marcos@marcoscoelho.com](mailto:marcos@marcoscoelho.com)
+- On [LinkedIn](https://www.linkedin.com/in/omarcoscoelho/)
