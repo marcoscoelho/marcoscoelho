@@ -9,6 +9,10 @@ I also deeply believe in the open-source movement and try to give back to the co
 
 I am currently Lead Developer at [123Milhas](https://123milhas.com) company, building integrations of API on the platform for search and selling airline tickets.
 
+## Statistics 📈
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoscoelho&count_private=true&show_icons=true&theme=default&hide=issues,contribs)](https://github.com/marcoscoelho)
+
 ### Get in touch ✉️
 
 - On Twitter [@omarcoscoelho](https://twitter.com/omarcoscoelho)
